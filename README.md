@@ -1,4 +1,5 @@
-# Visualizing-Binary-patterns-of-powers-
+# Visualizing Binary Patterns of Powers
+
 New: Link here to Claude Artifact
 https://claude.site/artifacts/cde74e11-8a6b-431a-8293-4484b33465e3
 
