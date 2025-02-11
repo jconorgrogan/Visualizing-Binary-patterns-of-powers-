@@ -2,6 +2,9 @@
 New: Link here to Claude Artifact
 https://claude.site/artifacts/cde74e11-8a6b-431a-8293-4484b33465e3
 
+<img width="871" alt="image" src="https://github.com/user-attachments/assets/4f370d5c-6c5d-475b-adbc-937a060d5be0" />
+
+
 
 An interactive visualization of binary patterns in powers of numbers, inspired by Stephen Wolfram's "A New Kind of Science". This project reveals the interesting transition from regular to chaotic behavior in the binary representations of powers.
 
